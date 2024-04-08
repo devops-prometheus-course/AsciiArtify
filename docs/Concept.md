@@ -14,11 +14,11 @@
 Another important aspect to consider is the licensing, Docker's engine is open-source, but some of the features it offers are under a commercial license. On the other hand, Podman is fully open-source and doesn't require any commercial permits.
 # Demo
 ## minikube
-![Image](../.data/minikube.gif)
+![Image](./minikube.gif)
 ## kind
-![Image](../.data/kind.gif)
+![Image](./kind.gif)
 ## k3d
-![Image](../.data/k3d.gif)
+![Image](./k3d.gif)
 # Conclusion
 In summary, for a startup PoC, the choice between minikube, kind, and k3d depends on factors such as the desired level of realism in the testing environment, resource constraints, and ease of use. Minikube is the simplest to set up and is suitable for basic testing on a single node. Kind offers a more realistic multi-node testing environment, while k3d provides a lightweight and fast alternative for resource-constrained environments. Consider the specific requirements and constraints of your PoC project to determine which tool best fits your needs.
 ## Acknowledge
