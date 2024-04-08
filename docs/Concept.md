@@ -12,3 +12,7 @@
 | Recomendations                 | Minikube is recommended for startups looking to quickly prototype and test Kubernetes-based applications in a controlled local environment. It's ideal for developers who want to gain hands-on experience with Kubernetes without the complexity of setting up a full-scale cluster.                 | kind is recommended for startups focusing on rapid iteration and testing of containerized applications. It's well-suited for developers who are familiar with Docker and want to quickly spin up Kubernetes clusters for testing and development purposes.                 | k3d is recommended for startups with resource constraints or limited infrastructure expertise. It's well-suited for developers who need lightweight Kubernetes clusters for testing and development, without the overhead of setting up full-scale environments.                      | Podman is recommended for startups primarily focused on container management tasks or transitioning from Docker to alternative container runtimes. While it may not be the best choice for Kubernetes-based PoCs, it can still be valuable for managing containerized applications in development and production environments. |
 ## Acknowledge
 The above text was generated using OpenAI's language model, ChatGPT.
+
+# Demo
+## minikube
+![Image](.data/minikube.gif)
