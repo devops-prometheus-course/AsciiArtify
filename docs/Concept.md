@@ -15,4 +15,4 @@ The above text was generated using OpenAI's language model, ChatGPT.
 
 # Demo
 ## minikube
-![Image](.data/minikube.gif)
+![Image](../.data/minikube.gif)
